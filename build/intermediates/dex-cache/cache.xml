@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/singh29/Projects/angieslist-snapfix-glass/app/build/intermediates/pre-dexed/debug/androidasync-1.2.4-5a6c8fa2859eb522bfd5c488b5097e65355389b5.jar"
+        jar="/Users/singh29/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/1.2.4/8dc7111050ee5f13a54b1206d47fee856159b2aa/androidasync-1.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8dc7111050ee5f13a54b1206d47fee856159b2aa"/>
+    <item
+        dex="/Users/singh29/Projects/angieslist-snapfix-glass/app/build/intermediates/pre-dexed/debug/gson-2.2.4-d4a64425161811672371f5046402c15cd0ce5b92.jar"
+        jar="/Users/singh29/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/Users/singh29/Projects/angieslist-snapfix-glass/app/build/intermediates/pre-dexed/debug/classes-68ba14f7f3d06dc0fa6a53aa0c3080b9d5bcb1b1.jar"
+        jar="/Users/singh29/Projects/angieslist-snapfix-glass/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+    <item
+        dex="/Users/singh29/Projects/angieslist-snapfix-glass/app/build/intermediates/pre-dexed/debug/ion-1.2.4-476d8cfbe8c91aa29cb575aab1de7fd0d96d08ca.jar"
+        jar="/Users/singh29/.gradle/caches/modules-2/files-2.1/com.koushikdutta.ion/ion/1.2.4/776baf5cac8eb4145dc0901254122cf956a784e3/ion-1.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="776baf5cac8eb4145dc0901254122cf956a784e3"/>
+    <item
+        dex="/Users/singh29/Projects/angieslist-snapfix-glass/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-fe930dc68beb1e566675ce71b270d4091c6c249b.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+
+</pre-dex-items>
